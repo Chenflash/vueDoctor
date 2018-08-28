@@ -1,0 +1,75 @@
+[{
+   "centerId":"0", 
+  "centerTitle":"行业新闻",
+  "centerImg":"http://img2.imgtn.bdimg.com/it/u=2119346460,1325227370&fm=200&gp=0.jpg",
+  "centerText":"行业最近动态",
+  "centerListTitle":[{
+    "titlesId":"1",   
+    "titles":"预约春季常见疾病，从保健做起",
+    "created":"1526872048",
+    "lookClick":"100",
+    "acctionsStatus":"0",
+    "titleContent":"<img src='http://img1.imgtn.bdimg.com/it/u=1823197191,208715374&fm=27&gp=0.jpg'/><p>春天，鸟语花销，万物葱绿</p><p>春天，鸟语花销，万物葱绿</p><p>春天，鸟语花销，万物葱绿</p><p>春天，鸟语花销，万物葱绿</p>"
+
+    },{
+        "titlesId":"02", 
+        "titles":"文章的标题文章标题",
+        "created":"1526872027",
+        "lookClick":"200",
+         "acctionsStatus":"0",
+        "titleContent":"<img src='http://img1.imgtn.bdimg.com/it/u=1823197191,208715374&fm=27&gp=0.jpg'/><p>春天02，鸟语花销，万物葱绿</p><p>春天，鸟语花销，万物葱绿</p><p>春天，鸟语花销，万物葱绿</p><p>春天，鸟语花销，万物葱绿</p>"
+
+  }]
+  },{
+    "centerId":"1",   
+    "centerTitle":"旭日康公告",
+    "centerImg":"http://img2.imgtn.bdimg.com/it/u=2119346460,1325227370&fm=200&gp=0.jpg",
+    "centerText":"旭日康公告",
+    "centerListTitle":[{
+      "titlesId":"1",  
+      "titles":"通知，今天不上班",
+      "created":"1526872048",
+      "lookClick":"100",
+      "acctionsStatus":0,
+      "titleContent":"<img src='http://f10.baidu.com/it/u=2681689161,1263649688&fm=72'/><p>公告消息</p><p>春天，鸟语花销，万物葱绿</p><p>春天，鸟语花销，万物葱绿</p><p>春天，鸟语花销，万物葱绿</p>"
+
+      }] 
+},{
+    "centerId":"2", 
+    "centerTitle":"常见问题",
+    "centerImg":"http://img2.imgtn.bdimg.com/it/u=2119346460,1325227370&fm=200&gp=0.jpg",
+    "centerText":"使用网站遇到一些问题",
+    "centerListTitle":[{
+      "titlesId":"1",  
+      "titles":"你有啥问题，可以跟我们提",
+      "created":"1526872048",
+      "lookClick":"120",
+      "acctionsStatus":0,
+      "titleContent":"<img src='http://img3.imgtn.bdimg.com/it/u=1891937665,505337798&fm=27&gp=0.jpg'/><p>今天不上班</p>"
+
+      }] 
+},{
+    "centerId":"3", 
+    "centerTitle":"关于我们",
+    "centerImg":"http://img2.imgtn.bdimg.com/it/u=2119346460,1325227370&fm=200&gp=0.jpg",
+    "centerText":"关于旭日康",
+    "centerListTitle":[{
+       "titlesId":"2",  
+      "titles":"做医疗方面的",
+      "created":"1526872048",
+      "lookClick":"100",
+      "acctionsStatus":0,
+      "titleContent":"<img src='http://img0.imgtn.bdimg.com/it/u=2842734424,956199182&fm=27&gp=0.jpg'/><p>哈哈哈哈</p>"
+
+      },{
+         "titlesId":"2", 
+          "titles":"哈哈哈哈",
+          "created":"1526872048",
+          "lookClick":"300",
+          "acctionsStatus":1,
+          "titleContent":"<img src='http://img0.imgtn.bdimg.com/it/u=2842734424,956199182&fm=27&gp=0.jpg'/><p>哈哈哈哈</p>"
+
+    }] 
+
+}
+]
